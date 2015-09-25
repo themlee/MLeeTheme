@@ -1,4 +1,4 @@
-# Theme-MLee2 for Sublime Text 3
+# MLeeTheme for Sublime Text 3
 This theme brings the [Material Design](http://www.google.com/design/) visual language to your Sublime Text 3. If you have problems first search for a similiar issue and then report with [new one](https://github.com/equinusocio/material-theme/issues).
 
 Please read the section [Known Issues](https://github.com/equinusocio/material-theme#known-issues) before send a new one.
@@ -6,9 +6,9 @@ Please read the section [Known Issues](https://github.com/equinusocio/material-t
 ## Buy me a beer. (Alcoholist mode ON)
 
 <!-- Pledgie Donation -->
-<a href='https://pledgie.com/campaigns/29452'><img alt='Click here to lend your support to: Theme-MLee2 donations and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/29452.png?skin_name=chrome' border='0' ></a>
+<a href='https://pledgie.com/campaigns/29452'><img alt='Click here to lend your support to: MLeeTheme donations and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/29452.png?skin_name=chrome' border='0' ></a>
 
-<a target="_blank" href='https://www.coinbase.com/checkouts/1ApeKqUE3aLp5x3UuGHU3z95F7XoyDvpeF' data-code="1ApeKqUE3aLp5x3UuGHU3z95F7XoyDvpeF" class="coinbase-button"><img alt='Click here to lend your support to: Theme-MLee2 donations and make a donation at pledgie.com !' src='https://www.coinbase.com/assets/buttons/donation_small-210ad5fe8fe0846a0c6bc676e1bad3d462ab3fcbdaf2443de8755503d0729847.png' border='0' ></a>
+<a target="_blank" href='https://www.coinbase.com/checkouts/1ApeKqUE3aLp5x3UuGHU3z95F7XoyDvpeF' data-code="1ApeKqUE3aLp5x3UuGHU3z95F7XoyDvpeF" class="coinbase-button"><img alt='Click here to lend your support to: MLeeTheme donations and make a donation at pledgie.com !' src='https://www.coinbase.com/assets/buttons/donation_small-210ad5fe8fe0846a0c6bc676e1bad3d462ab3fcbdaf2443de8755503d0729847.png' border='0' ></a>
 
 ## Screenshots
 
@@ -21,13 +21,13 @@ Please read the section [Known Issues](https://github.com/equinusocio/material-t
 More screenshots [here](http://equinusocio.github.io/material-theme/)
 
 ## Easy installation
-You can install this awesome theme through the [Package Control](https://packagecontrol.io/installation). Search for *"Theme-MLee2"*, install, **restart Sublime Text** and enjoy!
+You can install this awesome theme through the [Package Control](https://packagecontrol.io/installation). Search for *"MLeeTheme"*, install, **restart Sublime Text** and enjoy!
 
 --
 
 **Manual installation**
 
-1. Download the [latest release](https://github.com/equinusocio/material-theme/releases/latest), extract and rename the folder to **"Theme-MLee2"**.
+1. Download the [latest release](https://github.com/equinusocio/material-theme/releases/latest), extract and rename the folder to **"MLeeTheme"**.
 
 2. Move the folder inside your sublime Packages directory. **(Preferences > Browse packages...)**
 
@@ -35,7 +35,7 @@ You can install this awesome theme through the [Package Control](https://package
 
 ```json
 "theme": "Material-Theme.sublime-theme",
-"color_scheme": "Packages/Theme-MLee2/schemes/Material-Theme.tmTheme",
+"color_scheme": "Packages/MLeeTheme/schemes/Material-Theme.tmTheme",
 ```
 
 ***Note*** : Remember to restart Sublime Text after activating the theme.
@@ -46,13 +46,13 @@ This theme provides a second style version:
 **Darker**
 ```json
 "theme": "Material-Theme-Darker.sublime-theme",
-"color_scheme": "Packages/Theme-MLee2/schemes/Material-Theme-Darker.tmTheme",
+"color_scheme": "Packages/MLeeTheme/schemes/Material-Theme-Darker.tmTheme",
 ```
 
 **Lighter**
 ```json
 "theme": "Material-Theme-Lighter.sublime-theme",
-"color_scheme": "Packages/Theme-MLee2/schemes/Material-Theme-Lighter.tmTheme",
+"color_scheme": "Packages/MLeeTheme/schemes/Material-Theme-Lighter.tmTheme",
 ```
 
 ## Known issues
@@ -61,7 +61,7 @@ Please see the issue [#67](https://github.com/equinusocio/material-theme/issues/
 ![Drag the top edge](https://cloud.githubusercontent.com/assets/474329/8178894/a0dd09c0-1412-11e5-8ecf-f7f9ade439ae.gif)
 
 #### White panels
-If you want to enable the white panels and inputs you can install the addon package through **Package Control**, search for "Theme-MLee2 white panels". You have to disable it if you want to use the ```Lighter``` theme style.
+If you want to enable the white panels and inputs you can install the addon package through **Package Control**, search for "MLeeTheme white panels". You have to disable it if you want to use the ```Lighter``` theme style.
 
 ## Theme options
 
@@ -103,15 +103,15 @@ You can also use the official Material Design monospace font, "[Roboto Mono](htt
 
 **App icon**
 
-[Download](https://dribbble.com/shots/2104476-Material-Theme-for-Sublime-Text-3/attachments/380650) the official Theme-MLee2 icon.
+[Download](https://dribbble.com/shots/2104476-Material-Theme-for-Sublime-Text-3/attachments/380650) the official MLeeTheme icon.
 
 **Vim Porting**
 
-You can now download the [Vim Hybrid Material](https://github.com/kristijanhusak/vim-hybrid-material), Theme-MLee2 porting made by @kristijanhusak.
+You can now download the [Vim Hybrid Material](https://github.com/kristijanhusak/vim-hybrid-material), MLeeTheme porting made by @kristijanhusak.
 
 **Terminal Porting**
 
-You can download [Theme-MLee2 Terminal](https://gist.github.com/mvaneijgen/4c56701215847dd5ddcf), Theme-MLee2 porting made by @mvaneijgen
+You can download [MLeeTheme Terminal](https://gist.github.com/mvaneijgen/4c56701215847dd5ddcf), MLeeTheme porting made by @mvaneijgen
 
 **Default Color Palette**
 

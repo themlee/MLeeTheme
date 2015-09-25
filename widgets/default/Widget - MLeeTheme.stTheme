@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Theme-MLee2</string>
+	<string>MLeeTheme</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>settings</key>
@@ -12,19 +12,19 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FAFAFA</string>
+				<string>#263238</string>
 				<key>caret</key>
 				<string>#B0BEC5</string>
 				<key>foreground</key>
-				<string>#90A4AE</string>
-				<key>invisibles</key>
 				<string>#607D8B</string>
+				<key>invisibles</key>
+				<string>#65737e</string>
 				<key>lineHighlight</key>
 				<string>#00000012</string>
 				<key>selection</key>
-				<string>#90A4AE</string>
+				<string>#546E7A</string>
 				<key>selectionBorder</key>
-				<string>#90A4AE</string>
+				<string>#546E7A</string>
 				<key>selectionForeground</key>
 				<string>#FFFFFF</string>
 				<key>inactiveSelection</key>
@@ -52,7 +52,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#AAB3B5</string>
+				<string>#cfd8dc</string>
 			</dict>
 		</dict>
 		<dict>
